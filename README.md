@@ -1,6 +1,7 @@
 ## Disclaimer
 
 - Il tutto è puramente a scopo didattico , si prega di non utilizzarlo per scopi malevoli, in tal caso io sono esente da qualsiasi responsabilità
+- La macchina utilizzata per la simulazione dell'attacco presenta una architettura ARM64
 - Grazie e buon divertimento
 
 # Phishing attack using follina exploit and keylogger injection
