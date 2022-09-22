@@ -15,7 +15,7 @@ Questo progetto ha lo scopo di mostrate come dei mal intenzionati presenti in re
 
 **VMware:** Kali linux machine
 
-**UTM:** Windows 11 machine
+**UTM:** Windows 11 machine (target)
 
 ## Run Locally
 
