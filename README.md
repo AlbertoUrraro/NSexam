@@ -2,6 +2,7 @@
 
 - Il tutto è puramente a scopo didattico , si prega di non utilizzarlo per scopi malevoli, in tal caso io sono esente da qualsiasi responsabilità
 - La macchina utilizzata per la simulazione dell'attacco presenta un'architettura ARM64
+- La macchina target deve avere un sistema operativo windows, senza lo stesso l'attacco non andrà a buon fine
 - Grazie e buon divertimento
 
 # Phishing attack using follina exploit and keylogger injection
