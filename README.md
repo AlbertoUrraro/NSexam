@@ -1,7 +1,6 @@
 ## Disclaimer
 
 - Il tutto è puramente a scopo didattico , si prega di non utilizzarlo per scopi malevoli, in tal caso io sono esente da qualsiasi responsabilità
-- La macchina utilizzata per la simulazione dell'attacco presenta un'architettura ARM64
 - La macchina target deve avere un sistema operativo windows, senza lo stesso l'attacco non andrà a buon fine
 - Grazie e buon divertimento
 
@@ -13,9 +12,9 @@ Questo progetto ha lo scopo di mostrate come dei mal intenzionati presenti in re
 
 **Code:** Virtual studio Code
 
-**VMware:** Kali linux machine
+**VirtualBox:** Windows 10 machine (target),Kali linux machine(Attacker)
 
-**UTM:** Windows 11 machine (target)
+**SEToolkit:** Tool Social-Engineering
 
 ## Run Locally
 
@@ -46,29 +45,29 @@ Info email
 Per maggiori dettagli
 
 ```bash
-   https://github.com/AlbertoUrraro/SSExam/
+   https://github.com/AlbertoUrraro/NSexam/
 ```
 
 # Descrizione Codice
 
 ### Main
 
-![](https://github.com/AlbertoUrraro/SSExam/blob/main/Immagini%20/main.png)
+![](https://github.com/AlbertoUrraro/NSExam/blob/main/Immagini%20/main.png)
 
 ### System info
 
-![](https://github.com/AlbertoUrraro/SSExam/blob/main/Immagini%20/systeminfo.png)
+![](https://github.com/AlbertoUrraro/NSExam/blob/main/Immagini%20/systeminfo.png)
 
 ### Send Email
 
-![](https://github.com/AlbertoUrraro/SSExam/blob/main/Immagini%20/Emial.png)
+![](https://github.com/AlbertoUrraro/NSExam/blob/main/Immagini%20/Emial.png)
 
 ### Keylogger
 
-![](https://github.com/AlbertoUrraro/SSExam/blob/main/Immagini%20/key1.png)
-![](https://github.com/AlbertoUrraro/SSExam/blob/main/Immagini%20/key2.png)
-![](https://github.com/AlbertoUrraro/SSExam/blob/main/Immagini%20/key3.png)
-![](https://github.com/AlbertoUrraro/SSExam/blob/main/Immagini%20/key4.png)
+![](https://github.com/AlbertoUrraro/NSExam/blob/main/Immagini%20/key1.png)
+![](https://github.com/AlbertoUrraro/NSExam/blob/main/Immagini%20/key2.png)
+![](https://github.com/AlbertoUrraro/NSExam/blob/main/Immagini%20/key3.png)
+![](https://github.com/AlbertoUrraro/NSExam/blob/main/Immagini%20/key4.png)
 
 ## Sviluppi Futuri
 
