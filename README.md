@@ -51,7 +51,7 @@ Per maggiori dettagli del codice
 Presentazione
 
 ```bash
-   https://github.com/AlbertoUrraro/NSexam/tree/main/code
+   https://github.com/AlbertoUrraro/NSexam/tree/main/presentazione
 ```
 
 # Descrizione Codice
