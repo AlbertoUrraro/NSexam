@@ -42,10 +42,16 @@ Info email
   Per poter inoltrare l email è necessario abilitare i permessi ad app non protette nel proprio account google
 ```
 
-Per maggiori dettagli
+Per maggiori dettagli del codice
 
 ```bash
-   https://github.com/AlbertoUrraro/NSexam/
+   https://github.com/AlbertoUrraro/NSexam/tree/main/code
+```
+
+Presentazione
+
+```bash
+   https://github.com/AlbertoUrraro/NSexam/tree/main/code
 ```
 
 # Descrizione Codice
@@ -77,3 +83,4 @@ Per maggiori dettagli
 ## Made By
 
 - [@Alberto-Urraro]
+
