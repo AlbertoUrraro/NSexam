@@ -2,7 +2,7 @@
 //https://docs.microsoft.com/en-us/windows/win32/api/winreg/nf-winreg-regopenkeyexa
 //in piu creare anche un funzione che copia il path del programma malevolo nella startup di windows
 //da rivedere
-//https://cpp.hotexamples.com/it/examples/-/-/RegOpenKeyEx/cpp-regopenkeyex-function-examples.html
+//https://cpp.hotexamples.com/it/examples/-/-/RegOpenKeyEx/cpp-regopenkeyex-function-examples.html 
 
 void registery(void)
 {
