@@ -9,7 +9,7 @@
 #include <string>    //utile per manipolare le stringhe
 #include <Lmcons.h>  //https://zetcode.com/gui/winapi/system/ utile per tutte le win api riferite al sistema
 #include <dir.h>     //contiene funzioni per eseguire operazioni sulle directory
-#include <conio.h>   //input-output della console
+#include <conio.h>   //input-output della console 
 #include <stdio.h>
 using namespace std;
 //Variabili Globali
