@@ -83,6 +83,8 @@ Presentazione
 
     -  Persistenza del keylogger al riavvio
       - Idea: registri windows usando HKEY_CURRENT_USER
+    - Utilizzo di un server specializzato per la distrione di email di fishing
+     
 
 ## Made By
 
