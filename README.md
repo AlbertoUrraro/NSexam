@@ -39,8 +39,6 @@ Script follina guide
 
 ```bash
   https://github.com/JohnHammond/msdt-follina
-![image](https://user-images.githubusercontent.com/81329291/194750387-64844dc0-97f3-43a2-bc4f-cb612e710f18.png)
-
 ```
 Info email
 
