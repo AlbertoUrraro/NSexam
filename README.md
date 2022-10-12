@@ -10,7 +10,7 @@ Questo progetto ha lo scopo di mostrate come dei mal intenzionati presenti in re
 
 ## Tech Stack
 
-**Code:** Virtual studio Code
+**Code:** Visual studio Code
 
 **VirtualBox:** Windows 10 machine (target),Kali linux machine(Attacker)
 
