@@ -1,10 +1,10 @@
 ## Disclaimer
 
-- Il tutto è puramente a scopo didattico , si prega di non utilizzarlo per scopi malevoli, in tal caso io sono esente da qualsiasi responsabilità
+- Il tutto è puramente a scopo didattico , si prega di non utilizzarlo per scopi malevoli
 - La macchina target deve avere un sistema operativo windows, senza lo stesso l'attacco non andrà a buon fine
 - Grazie e buon divertimento
 
-# Phishing attack using follina exploit and keylogger injection
+# Phishing attack using the follina exploit and keylogger injection
 
 Questo progetto ha lo scopo di mostrate come dei mal intenzionati presenti in rete possono sferrare attacchi sfruttando vulnerabilità presenti nei sistemi odierni per prelevare dati sensibili violando la privacy dei soggetti colpiti.
 
@@ -40,10 +40,20 @@ Script follina guide
 ```bash
   https://github.com/JohnHammond/msdt-follina
 ```
-Info email
+Info email mian.cpp
 
 ```bash
-  Per poter inoltrare l email è necessario abilitare i permessi ad app non protette nel proprio account google
+  Per far si che il codice funzioni è necessario inserire una propria email nei campi 
+  
+  -string Email_To_Recieve_On = "";
+  -string Email_To_Send_From = "";
+  
+  cosi da avere mittente e destinatario sulla stessa casella postale
+  
+  Inoltre per poter abilitare l invio dell email da un account google è fondamentale abilitare i permessi 
+  ad app non protette , fatto ciò sara possibile creare una password per un app dedicata che andrà inserita nel campo 
+  
+  -string Password_Of_Sender_Email = "";
 ```
 
 Per maggiori dettagli del codice
